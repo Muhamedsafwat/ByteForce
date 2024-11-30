@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@layer components{
+    .container {
+        @apply px-5 lg:px-16
+    }
+    .gradient{
+        @apply bg-gradient-to-r from-primary to-primary-light
+    }
+    .text-gradient{
+        @apply w-fit bg-gradient-to-br from-primary to-primary-light !text-transparent bg-clip-text
+    }
+    .btn-solid{
+        @apply rounded bg-primary px-4 py-2 text-center font-medium text-white duration-200 hover:bg-blue-600
+    }
+    .btn-outline{
+        @apply text-gradient rounded border border-primary bg-transparent px-4 py-2 text-center font-medium duration-200 hover:bg-blue-500
+    }
+}

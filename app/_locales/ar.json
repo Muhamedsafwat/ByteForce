@@ -1,0 +1,46 @@
+{
+    "homePage": {
+        "heroSection" : {
+            "title" : "اهلا بك في",
+            "description" : "شركة حلول أعمال توفر كل الأصول المتاحة لتمكين شركتك، بدءًا من التسويق، الوسائط المتعددة، العلامة التجارية، والبرمجة."
+        },
+        "statsSection": {
+            "title" : "احصائياتنا",
+            "orders" : "طلبات ناجحة",
+            "workers": "موظف محترف",
+            "clients": "عملاء من جميع انحاء العالم",
+            "projects": "مشاريع"
+        },
+        "teamsSection": {
+            "title": "الفرق الخاصة بنا"
+        },
+        "partnersSection": {
+            "title": "شركاؤنا"
+        },
+        "feedbackSection" : {
+            "title": "ما يقوله عملاؤنا عنا",
+            "subTitle": "لا تأخذوا كلامنا على أنه الحقيقة، بل خذوا كلامهم."
+        },
+        "whyChooseUsSection": {
+            "title": "لماذا تختارنا؟",
+            "subTitle": "اختيار Byteforce كشريك تقني سيجعل عملك ناجحًا لأنك ستركز على عملك وتدع الباقي علينا."
+        }
+    },
+    "teamsPage": {
+        "about" : "عن كوديكس"
+    },
+    "contactPage": {
+        "reachOut" : "تواصل معنا",
+        "message": "او راسلنا",
+        "submit": "ارسال"
+
+    },
+    "aboutUsPage" : {
+        "whyChoose" : "لماذا تختار",
+        "meetOurTeam": "فريقنا",
+        "contactUs": "تواصل معنا"
+      },
+    "learnMore" : "اعرف المزيد",
+    "contactUs" : "تواصل معنا"
+
+}

@@ -1,0 +1,44 @@
+{
+    "homePage": {
+        "heroSection" : {
+            "title" :"Welcome to",
+            "description" : "A business solutions company that provides every available asset to enable your company from marketing, multimedia, branding and programming."
+        },
+        "statsSection": {
+            "title" : "Our Stats",
+            "orders" : "Successfully completed orders",
+            "workers": "Professional workers",
+            "clients": "Clients from all over the world",
+            "projects": "Projects"
+        },
+        "teamsSection": {
+            "title": "Our Teams"
+        },
+        "partnersSection": {
+            "title": "Partners"
+        },
+        "feedbackSection" : {
+            "title": "What our clients say",
+            "subTitle": "Don’t take our word for it. Take their word for it."
+        },
+        "whyChooseUsSection": {
+            "title": "Why Choose US?",
+            "subTitle": "Choosing Byteforce as a Technical Partner will make your business successful because you will focus on your work and let the rest go On us."
+        }
+    },
+    "teamsPage": {
+        "about" : "About codeX"
+    },
+    "contactPage": {
+        "reachOut" : "Reach Out",
+         "message": "Or leave a message",
+         "submit": "Submit"
+    },
+    "aboutUsPage" : {
+      "whyChoose" : "Why Choose",
+      "meetOurTeam": "Meet our team",
+      "contactUs": "Contact Us"
+    },
+    "learnMore" : "Learn More",
+    "contactUs" : "Contact Us"
+}
